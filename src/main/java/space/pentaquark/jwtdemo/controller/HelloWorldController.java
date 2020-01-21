@@ -1,4 +1,4 @@
-package space.pentaquark.jwtdemo;
+package space.pentaquark.jwtdemo.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
